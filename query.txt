@@ -1,0 +1,10 @@
+MongoDB shell version v4.4.29
+connecting to: mongodb://127.0.0.1:27017/?compressors=disabled&gssapiServiceName=mongodb
+Implicit session: session { "id" : UUID("156af46d-8170-43a5-b9dc-66271ca887aa") }
+MongoDB server version: 4.4.29
+{
+	"_id" : ObjectId("68ac2d2bfe9fef9e5a17dc87"),
+	"name" : "Cristian Basto",
+	"value" : 42,
+	"createdAt" : ISODate("2025-08-25T09:30:19.781Z")
+}

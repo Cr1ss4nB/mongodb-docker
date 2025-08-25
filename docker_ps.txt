@@ -1,0 +1,2 @@
+CONTAINER ID   IMAGE                      COMMAND                  CREATED          STATUS          PORTS                                             NAMES
+ef3b5880691a   cristian-mongo:202010495   "docker-entrypoint.s…"   42 seconds ago   Up 42 seconds   0.0.0.0:27017->27017/tcp, [::]:27017->27017/tcp   mongodb
